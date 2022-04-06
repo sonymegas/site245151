@@ -1,34 +1,45 @@
 .buttons { 
 				
-					margin-bottom:10px;
-				
-				 }
-				
-			.button1 , .button2 , .button3 { 
-				background-color: black;
-				width: 100px;
-				padding: 5px;
-				border-radius: 25px;
-				display:inline-block;
-				margin-bottom: 5px;
-				}
-				
-			.btn > a { color:white; text-decoration:none; }
-						
-			body { margin:0; background-color:grey; }
+margin-bottom:10px;
 
-			.player { margin-bottom:20px; }
+}
 
-			.player > iframe { border-color:black; }
+.button1 , .button2 , .button3 { 
+background-color: black;
+width: 100px;
+padding: 5px;
+border-radius: 25px;
+display:inline-block;
+margin-bottom: 5px;
+}
 
-			.title { margin: 20px;
-				font-size: 32px;
-				font-weight: bold; }
-				
-			.announcements {    font-weight: bold;
-								font-size: 20px;
-								color: white; 
-						   } 
-						   
-			
-			.title { color:red; } 
+.btn > a { color:white; text-decoration:none; }
+	
+body { margin:0; background-color:grey; }
+
+.player { margin-bottom:20px; }
+
+.player > iframe { border-color:black; }
+
+.title { margin: 20px;
+font-size: 32px;
+font-weight: bold; }
+
+.announcements {    font-weight: bold;
+			font-size: 20px;
+			color: white; 
+	   } 
+	   
+
+.title { color:red; } 
+
+
+.links {    
+    text-decoration: none;
+    color: blue;
+    font-size: 20px;
+    display: inline-block;
+    margin-bottom: 11px; 
+	}
+
+.links > p { margin: 0; } 
