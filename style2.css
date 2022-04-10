@@ -13,7 +13,7 @@ display:inline-block;
 margin-bottom: 5px;
 }
 
-.btn > a { color:white; text-decoration:none; font-size: 15px; }
+.btn > a { color:white; text-decoration:none; font-size: 12px; }
 	
 body { margin:0; background-color:grey; }
 
