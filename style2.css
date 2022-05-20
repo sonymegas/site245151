@@ -73,6 +73,7 @@ p { margin:0 }
 .dropdown {
   position: relative;
   display: inline-block;
+  margin-bottom:5px;
 }
 
 .dropdown-content {
